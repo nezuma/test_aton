@@ -6,10 +6,10 @@
 
 `Node.JS, npm, pm2(на сервере)` либо просто можно использовать `node название.файла`
 
-Библиотеки: vue, vue-router, express, crypto-js, axios, body-parser, sequelize, mysql2, jsonwebtoken
+Библиотеки: vue, vue-router, express, crypto-js, axios, body-parser, sequelize, mysql2
 
 ```
-npm i express express-sessions crypto-js axios body-parser sequelize mysql2 jsonwebtoken
+npm i express express-sessions crypto-js axios body-parser sequelize mysql2
 ```
 
 Cервер полностью на node.js
